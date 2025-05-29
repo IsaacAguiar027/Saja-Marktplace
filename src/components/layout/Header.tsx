@@ -38,7 +38,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <span className="text-2xl font-bold text-teal-600">Local<span className="text-orange-500">Market</span></span>
+            <span className="text-2xl font-bold text-teal-600">Saja<span className="text-orange-500">Market</span></span>
           </Link>
 
           {/* Search Bar - Hidden on mobile */}
